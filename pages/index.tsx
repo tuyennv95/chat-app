@@ -12,6 +12,7 @@ const Home: NextPage = () => {
 			</Head>
 
 			<Sidebar />
+			
 		</div>
 	)
 }
